@@ -1,0 +1,10 @@
+20:18:55.364 [main] INFO  testCases.TC003_LoginDataDrivenTest - *****************Completed TC_002_LoinTest ****************
+09:58:25.970 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest***********
+09:58:26.115 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the Link My Account
+09:58:26.710 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the Link Register
+09:58:31.715 [main] INFO  testCases.TC001_AccountRegistrationTest - Passing User details....
+09:58:38.032 [main] INFO  testCases.TC001_AccountRegistrationTest - Message Confirmation....
+09:58:52.478 [main] INFO  testCases.TC002_LoginTest - *****************Starting TC_002_LoinTest ****************
+09:59:09.068 [main] INFO  testCases.TC002_LoginTest - *****************Completed TC_002_LoinTest ****************
+10:04:04.150 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Starting TC001_AccountRegistrationTest***********
+10:04:04.215 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on the Link My Account

@@ -1,0 +1,8 @@
+20:17:11.601 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:17:11.602 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:17:11.614 [main] INFO  testCases.TC003_LoginDataDrivenTest - *****************Starting TC_002_LoinTest ****************
+20:17:38.068 [main] INFO  testCases.TC003_LoginDataDrivenTest - *****************Starting TC_002_LoinTest ****************
+20:17:55.217 [main] INFO  testCases.TC003_LoginDataDrivenTest - *****************Starting TC_002_LoinTest ****************
+20:18:12.235 [main] INFO  testCases.TC003_LoginDataDrivenTest - *****************Starting TC_002_LoinTest ****************
+20:18:38.331 [main] INFO  testCases.TC003_LoginDataDrivenTest - *****************Completed TC_002_LoinTest ****************
+20:18:38.339 [main] INFO  testCases.TC003_LoginDataDrivenTest - *****************Starting TC_002_LoinTest ****************
